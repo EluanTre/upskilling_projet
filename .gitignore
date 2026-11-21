@@ -1,0 +1,4 @@
+*.sql
+*.duckdb
+test.py
+test.ipynb
