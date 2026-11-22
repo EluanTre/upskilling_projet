@@ -1,4 +1,7 @@
 *.sql
 *.duckdb
+*.csv
+__pycache__/
+
 test.py
 test.ipynb
